@@ -1,0 +1,17 @@
+D:\Users\Yael\Documents\.NET\Clean\Clean.Data\bin\Debug\net8.0\Clean.Data.deps.json
+D:\Users\Yael\Documents\.NET\Clean\Clean.Data\bin\Debug\net8.0\Clean.Data.runtimeconfig.json
+D:\Users\Yael\Documents\.NET\Clean\Clean.Data\bin\Debug\net8.0\Clean.Data.dll
+D:\Users\Yael\Documents\.NET\Clean\Clean.Data\bin\Debug\net8.0\Clean.Data.pdb
+D:\Users\Yael\Documents\.NET\Clean\Clean.Data\bin\Debug\net8.0\Clean.Core.dll
+D:\Users\Yael\Documents\.NET\Clean\Clean.Data\bin\Debug\net8.0\Clean.Core.pdb
+D:\Users\Yael\Documents\.NET\Clean\Clean.Data\obj\Debug\net8.0\Clean.Data.csproj.AssemblyReference.cache
+D:\Users\Yael\Documents\.NET\Clean\Clean.Data\obj\Debug\net8.0\Clean.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Yael\Documents\.NET\Clean\Clean.Data\obj\Debug\net8.0\Clean.Data.AssemblyInfoInputs.cache
+D:\Users\Yael\Documents\.NET\Clean\Clean.Data\obj\Debug\net8.0\Clean.Data.AssemblyInfo.cs
+D:\Users\Yael\Documents\.NET\Clean\Clean.Data\obj\Debug\net8.0\Clean.Data.csproj.CoreCompileInputs.cache
+D:\Users\Yael\Documents\.NET\Clean\Clean.Data\obj\Debug\net8.0\Clean.Data.csproj.Up2Date
+D:\Users\Yael\Documents\.NET\Clean\Clean.Data\obj\Debug\net8.0\Clean.Data.dll
+D:\Users\Yael\Documents\.NET\Clean\Clean.Data\obj\Debug\net8.0\refint\Clean.Data.dll
+D:\Users\Yael\Documents\.NET\Clean\Clean.Data\obj\Debug\net8.0\Clean.Data.pdb
+D:\Users\Yael\Documents\.NET\Clean\Clean.Data\obj\Debug\net8.0\Clean.Data.genruntimeconfig.cache
+D:\Users\Yael\Documents\.NET\Clean\Clean.Data\obj\Debug\net8.0\ref\Clean.Data.dll

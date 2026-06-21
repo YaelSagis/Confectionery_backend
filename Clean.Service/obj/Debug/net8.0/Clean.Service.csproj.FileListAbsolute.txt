@@ -1,0 +1,15 @@
+D:\Users\Yael\Documents\.NET\Clean\Clean.Service\bin\Debug\net8.0\Clean.Service.deps.json
+D:\Users\Yael\Documents\.NET\Clean\Clean.Service\bin\Debug\net8.0\Clean.Service.dll
+D:\Users\Yael\Documents\.NET\Clean\Clean.Service\bin\Debug\net8.0\Clean.Service.pdb
+D:\Users\Yael\Documents\.NET\Clean\Clean.Service\bin\Debug\net8.0\Clean.Core.dll
+D:\Users\Yael\Documents\.NET\Clean\Clean.Service\bin\Debug\net8.0\Clean.Core.pdb
+D:\Users\Yael\Documents\.NET\Clean\Clean.Service\obj\Debug\net8.0\Clean.Service.csproj.AssemblyReference.cache
+D:\Users\Yael\Documents\.NET\Clean\Clean.Service\obj\Debug\net8.0\Clean.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Yael\Documents\.NET\Clean\Clean.Service\obj\Debug\net8.0\Clean.Service.AssemblyInfoInputs.cache
+D:\Users\Yael\Documents\.NET\Clean\Clean.Service\obj\Debug\net8.0\Clean.Service.AssemblyInfo.cs
+D:\Users\Yael\Documents\.NET\Clean\Clean.Service\obj\Debug\net8.0\Clean.Service.csproj.CoreCompileInputs.cache
+D:\Users\Yael\Documents\.NET\Clean\Clean.Service\obj\Debug\net8.0\Clean.Se.BDC7D207.Up2Date
+D:\Users\Yael\Documents\.NET\Clean\Clean.Service\obj\Debug\net8.0\Clean.Service.dll
+D:\Users\Yael\Documents\.NET\Clean\Clean.Service\obj\Debug\net8.0\refint\Clean.Service.dll
+D:\Users\Yael\Documents\.NET\Clean\Clean.Service\obj\Debug\net8.0\Clean.Service.pdb
+D:\Users\Yael\Documents\.NET\Clean\Clean.Service\obj\Debug\net8.0\ref\Clean.Service.dll

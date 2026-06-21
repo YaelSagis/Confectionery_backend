@@ -1,0 +1,14 @@
+D:\Users\Yael\Documents\.NET\Clean\TaskingParallel\bin\Debug\net8.0\TaskingParallel.exe
+D:\Users\Yael\Documents\.NET\Clean\TaskingParallel\bin\Debug\net8.0\TaskingParallel.deps.json
+D:\Users\Yael\Documents\.NET\Clean\TaskingParallel\bin\Debug\net8.0\TaskingParallel.runtimeconfig.json
+D:\Users\Yael\Documents\.NET\Clean\TaskingParallel\bin\Debug\net8.0\TaskingParallel.dll
+D:\Users\Yael\Documents\.NET\Clean\TaskingParallel\bin\Debug\net8.0\TaskingParallel.pdb
+D:\Users\Yael\Documents\.NET\Clean\TaskingParallel\obj\Debug\net8.0\TaskingParallel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Yael\Documents\.NET\Clean\TaskingParallel\obj\Debug\net8.0\TaskingParallel.AssemblyInfoInputs.cache
+D:\Users\Yael\Documents\.NET\Clean\TaskingParallel\obj\Debug\net8.0\TaskingParallel.AssemblyInfo.cs
+D:\Users\Yael\Documents\.NET\Clean\TaskingParallel\obj\Debug\net8.0\TaskingParallel.csproj.CoreCompileInputs.cache
+D:\Users\Yael\Documents\.NET\Clean\TaskingParallel\obj\Debug\net8.0\TaskingParallel.dll
+D:\Users\Yael\Documents\.NET\Clean\TaskingParallel\obj\Debug\net8.0\refint\TaskingParallel.dll
+D:\Users\Yael\Documents\.NET\Clean\TaskingParallel\obj\Debug\net8.0\TaskingParallel.pdb
+D:\Users\Yael\Documents\.NET\Clean\TaskingParallel\obj\Debug\net8.0\TaskingParallel.genruntimeconfig.cache
+D:\Users\Yael\Documents\.NET\Clean\TaskingParallel\obj\Debug\net8.0\ref\TaskingParallel.dll

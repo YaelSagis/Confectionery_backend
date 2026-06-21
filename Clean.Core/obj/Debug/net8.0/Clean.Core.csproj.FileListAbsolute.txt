@@ -1,0 +1,12 @@
+D:\Users\Yael\Documents\.NET\Clean\Clean.Core\bin\Debug\net8.0\Clean.Core.deps.json
+D:\Users\Yael\Documents\.NET\Clean\Clean.Core\bin\Debug\net8.0\Clean.Core.dll
+D:\Users\Yael\Documents\.NET\Clean\Clean.Core\bin\Debug\net8.0\Clean.Core.pdb
+D:\Users\Yael\Documents\.NET\Clean\Clean.Core\obj\Debug\net8.0\Clean.Core.csproj.AssemblyReference.cache
+D:\Users\Yael\Documents\.NET\Clean\Clean.Core\obj\Debug\net8.0\Clean.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Yael\Documents\.NET\Clean\Clean.Core\obj\Debug\net8.0\Clean.Core.AssemblyInfoInputs.cache
+D:\Users\Yael\Documents\.NET\Clean\Clean.Core\obj\Debug\net8.0\Clean.Core.AssemblyInfo.cs
+D:\Users\Yael\Documents\.NET\Clean\Clean.Core\obj\Debug\net8.0\Clean.Core.csproj.CoreCompileInputs.cache
+D:\Users\Yael\Documents\.NET\Clean\Clean.Core\obj\Debug\net8.0\Clean.Core.dll
+D:\Users\Yael\Documents\.NET\Clean\Clean.Core\obj\Debug\net8.0\refint\Clean.Core.dll
+D:\Users\Yael\Documents\.NET\Clean\Clean.Core\obj\Debug\net8.0\Clean.Core.pdb
+D:\Users\Yael\Documents\.NET\Clean\Clean.Core\obj\Debug\net8.0\ref\Clean.Core.dll
